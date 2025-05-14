@@ -4,6 +4,7 @@
 // @match       https://*.bloxd.io/*
 // @match       https://*.staging.bloxd.io/*
 // @grant       none
+// @license     Mozzila Public License 2.0
 // @version     1.5.1
 // @author      Gradyruan
 // @description Bloxd Killaura, WallHack, Bhop, Anti KB, Player Finder, Fly
